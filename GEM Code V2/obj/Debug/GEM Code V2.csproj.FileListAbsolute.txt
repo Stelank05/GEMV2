@@ -1,0 +1,19 @@
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM Code V2.csprojAssemblyReference.cache
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.Properties.Resources.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM Code V2.csproj.GenerateResource.cache
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM Code V2.csproj.CoreCompileInputs.cache
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\bin\Debug\GEM Code V2.exe.config
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\bin\Debug\GEM Code V2.exe
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\bin\Debug\GEM Code V2.pdb
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM Code V2.exe
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM Code V2.pdb
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.StartWindow.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.MakeCar.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.SimRace.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.Podiums.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.GenericPodium.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.Top5Podium.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.ViewClassOrder.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.ViewTop8.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.CarEditor.resources
+C:\Users\Steph\Documents\Excel Sims\Global Endurance Masters\GEM Code V2\obj\Debug\GEM_Code_V2.ChooseDelete.resources
